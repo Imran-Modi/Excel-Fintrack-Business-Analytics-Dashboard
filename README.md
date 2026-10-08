@@ -1,8 +1,5 @@
 # Excel-Fintrack-Business-Analytics-Dashboard
 
-
-# FinTrack Sales Analytics Dashboard
-
 An Excel-based business intelligence project analyzing sales, revenue, profit, discounts, products, market segments, countries, and seasonal sales performance.
 ---
 
