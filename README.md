@@ -1,28 +1,28 @@
 # Excel-Fintrack-Business-Analytics-Dashboard
 
-## 📑 Table of Contents
+## Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Problem Statement](#-problem-statement)
-- [Dataset](#-dataset)
-- [Tools & Technologies](#-tools--technologies)
-- [Data Cleaning & Preparation](#-data-cleaning--preparation)
-- [Dashboard KPIs](#-dashboard-kpis)
-- [Key Findings](#-key-findings)
-- [Dashboard](#-dashboard)
-- [Business Insights](#-business-insights)
-- [Project Structure](#-project-structure)
-- [Author](#-author)
-- [Project Status](#-project-status)
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Dataset](#dataset)
+- [Tools & Technologies](#tools--technologies)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Dashboard KPIs](#dashboard-kpis)
+- [Key Findings](#key-findings)
+- [Dashboard](#dashboard)
+- [Business Insights](#business-insights)
+- [Project Structure](#project-structure)
+- [Author](#author)
+- [Project Status](#project-status)
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 FinTrack Sales Analytics Dashboard is an Excel-based business intelligence project designed to analyze sales, revenue, profit, discounts, products, market segments, countries, and seasonal sales performance.
 The project transforms sales data into an interactive dashboard to identify important business trends, performance drivers, and opportunities for improving profitability.
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Businesses need to understand how products, market segments, countries, discounts, and seasonal periods affect sales and profitability.
 The objective of this project is to analyze historical sales data and identify:
@@ -32,10 +32,10 @@ The objective of this project is to analyze historical sales data and identify:
 - Monthly and seasonal sales patterns
 - Impact of discounts on sales and profit
 - Opportunities for improving profitability
-
 ---
 
-## 📁 Dataset
+## Dataset
+
 The dataset contains sales-related information including:
 - Year
 - Country
@@ -50,6 +50,7 @@ The dataset contains sales-related information including:
 - Units Sold
 
 ### Countries
+
 - Canada
 - France
 - Germany
@@ -57,6 +58,7 @@ The dataset contains sales-related information including:
 - United States
 
 ### Market Segments
+
 - Government
 - Small Business
 - Channel Partners
@@ -64,7 +66,8 @@ The dataset contains sales-related information including:
 - Enterprise
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
+
 - Microsoft Excel
 - Pivot Tables
 - Excel Charts
@@ -73,7 +76,8 @@ The dataset contains sales-related information including:
 - Data Visualization
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
+
 The data preparation process involved reviewing and preparing the sales data for analysis and dashboard creation.
 Key preparation activities included:
 1. Checking for duplicate records
@@ -84,7 +88,8 @@ Key preparation activities included:
 6. Creating KPIs and visualizations
 ---
 
-## 📊 Dashboard KPIs
+## Dashboard KPIs
+
 | KPI | Value |
 |---|---:|
 | Total Sales | $118.73M |
@@ -93,12 +98,15 @@ Key preparation activities included:
 | Total Units Sold | 1.13M |
 ---
 
-## 🔎 Key Findings
-### 1. Product Performance
+## Key Findings
+
+### Product Performance
 **Paseo** generated the highest revenue among the products, at approximately **$35.61M**, representing around **28% of total revenue**.
-### 2. Market Segment Performance
+
+### Market Segment Performance
 The **Government** market segment generated the highest revenue, at approximately **$56.40M**, representing around **44% of total revenue**.
-### 3. Country Performance
+
+### Country Performance
 The dashboard compares sales performance across:
 - Canada
 - France
@@ -107,30 +115,30 @@ The dashboard compares sales performance across:
 - United States
 The country analysis helps identify differences in sales contribution and performance.
 
-### 4. Discount Analysis
+### Discount Analysis
 The dashboard compares sales and profit across three discount levels:
+
 | Discount Level | Sales | Profit |
 |---|---:|---:|
 | High | $37.37M | $3.39M |
 | Medium | $38.78M | $5.58M |
 | Low | $34.63M | $6.19M |
-
 The analysis indicates that higher discounts can support sales but may significantly reduce profitability.
 Low discounts generated lower sales than medium and high discounts but produced the highest profit among the three discount levels.
 
-### 5. Seasonal Trends
+### Seasonal Trends
 Sales performance was stronger during **September, October, November, and December**, while several months earlier in the year showed comparatively lower sales performance.
 ---
 
-## 📈 Dashboard
+## Dashboard
 ![FinTrack Sales Dashboard](images/dashboard.png)
 ---
 
-## 📌 Key Findings
+## Key Findings
 ![Key Findings](images/key-findings.png)
 ---
 
-## 💡 Business Insights
+## Business Insights
 The dashboard can help management:
 - Identify high-revenue products
 - Focus on profitable market segments
@@ -139,16 +147,15 @@ The dashboard can help management:
 - Evaluate discount strategies
 - Balance sales growth with profitability
 - Improve sales and profitability planning
-
 ---
 
-## 📂 Project Structure
-fintrack-sales-analytics-dashboard/ │ ├── README.md │ ├── data/ │ └── fintracksalesdata.xlsx │ ├── dashboard/ │ └── FinTrackSalesDashboard.xlsx │ ├── images/ │ ├── dashboard.png │ └── key-findings.png │ └── documentation/ └── project-summary.md
+## Project Structure
+Excel-Fintrack-Business-Analytics-Dashboard/ │ ├── README.md │ ├── data/ │ └── fintracksalesdata.xlsx │ ├── dashboard/ │ └── FinTrackSalesDashboard.xlsx │ ├── images/ │ ├── dashboard.png │ └── key-findings.png │ └── documentation/ └── project-summary.md
 ---
 
-## 👤 Author
-Imran Modi
+## Author
+**Imran Modi**
 ---
 
-## ⭐ Project Status
+## Project Status
 **Completed — Excel Sales Analytics Dashboard**
