@@ -20,6 +20,7 @@
 
 FinTrack Sales Analytics Dashboard is an Excel-based business intelligence project designed to analyze sales, revenue, profit, discounts, products, market segments, countries, and seasonal sales performance.
 The project transforms sales data into an interactive dashboard to identify important business trends, performance drivers, and opportunities for improving profitability.
+
 ---
 
 ## Problem Statement
@@ -96,6 +97,7 @@ Key preparation activities included:
 | Total Profit | $16.89M |
 | Total Revenue | $127.93M |
 | Total Units Sold | 1.13M |
+
 ---
 
 ## Key Findings
@@ -128,14 +130,17 @@ Low discounts generated lower sales than medium and high discounts but produced 
 
 ### Seasonal Trends
 Sales performance was stronger during **September, October, November, and December**, while several months earlier in the year showed comparatively lower sales performance.
+
 ---
 
 ## Dashboard
 ![FinTrack Sales Dashboard](images/dashboard.png)
+
 ---
 
 ## Key Findings
 ![Key Findings](images/key-findings.png)
+
 ---
 
 ## Business Insights
@@ -151,8 +156,8 @@ The dashboard can help management:
 
 ## Project Structure
 Excel-Fintrack-Business-Analytics-Dashboard/ │ ├── README.md │ ├── data/ │ └── fintracksalesdata.xlsx │ ├── dashboard/ │ └── FinTrackSalesDashboard.xlsx │ ├── images/ │ ├── dashboard.png │ └── key-findings.png │ └── documentation/ └── project-summary.md
----
 
+---
 ## Author
 **Imran Modi**
 ---
