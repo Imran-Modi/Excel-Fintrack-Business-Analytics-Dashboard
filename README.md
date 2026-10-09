@@ -134,12 +134,12 @@ Sales performance was stronger during **September, October, November, and Decemb
 ---
 
 ### Dashboard
-![FinTrack Sales Dashboard](images/dashboard.png)
+![FinTrack Sales Dashboard](images/Dashboard.png)
 
 ---
 
 ### Key Findings
-![Key Findings](images/key-findings.png)
+![Key Findings](images/Key-findings.png)
 
 ---
 
@@ -155,11 +155,22 @@ The dashboard can help management:
 ---
 
 ## Project Structure
-Excel-Fintrack-Business-Analytics-Dashboard/ │ ├── README.md │ ├── data/ │ └── fintracksalesdata.xlsx │ ├── dashboard/ │ └── FinTrackSalesDashboard.xlsx │ ├── images/ │ ├── dashboard.png │ └── key-findings.png │ └── documentation/ └── project-summary.md
 
----
-### Author
-***Imran Modi***
+Excel-Fintrack-Business-Analytics-Dashboard/
+├── README.md
+├── data/
+│   └── fintracksalesdata.xlsx
+├── dashboard/
+│   └── FinTrackSalesDashboard.xlsx
+├── images/
+│   ├── dashboard.png
+│   └── key-findings.png
+└── documentation/
+    └── project-summary.md 
+    ---
+    
+Author
+Imran Modi
 ---
 
 ### Project Status
