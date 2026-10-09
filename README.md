@@ -1,6 +1,6 @@
-# Excel-Fintrack-Business-Analytics-Dashboard
+## Excel-Fintrack-Business-Analytics-Dashboard
 
-## Table of Contents
+### Table of Contents
 
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
@@ -16,14 +16,14 @@
 - [Project Status](#project-status)
 ---
 
-## Project Overview
+### Project Overview
 
 FinTrack Sales Analytics Dashboard is an Excel-based business intelligence project designed to analyze sales, revenue, profit, discounts, products, market segments, countries, and seasonal sales performance.
 The project transforms sales data into an interactive dashboard to identify important business trends, performance drivers, and opportunities for improving profitability.
 
 ---
 
-## Problem Statement
+### Problem Statement
 
 Businesses need to understand how products, market segments, countries, discounts, and seasonal periods affect sales and profitability.
 The objective of this project is to analyze historical sales data and identify:
@@ -35,7 +35,7 @@ The objective of this project is to analyze historical sales data and identify:
 - Opportunities for improving profitability
 ---
 
-## Dataset
+### Dataset
 
 The dataset contains sales-related information including:
 - Year
@@ -67,7 +67,7 @@ The dataset contains sales-related information including:
 - Enterprise
 ---
 
-## Tools & Technologies
+### Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
@@ -77,7 +77,7 @@ The dataset contains sales-related information including:
 - Data Visualization
 ---
 
-## Data Cleaning & Preparation
+### Data Cleaning & Preparation
 
 The data preparation process involved reviewing and preparing the sales data for analysis and dashboard creation.
 Key preparation activities included:
@@ -89,7 +89,7 @@ Key preparation activities included:
 6. Creating KPIs and visualizations
 ---
 
-## Dashboard KPIs
+### Dashboard KPIs
 
 | KPI | Value |
 |---|---:|
@@ -133,12 +133,12 @@ Sales performance was stronger during **September, October, November, and Decemb
 
 ---
 
-## Dashboard
+### Dashboard
 ![FinTrack Sales Dashboard](images/dashboard.png)
 
 ---
 
-## Key Findings
+### Key Findings
 ![Key Findings](images/key-findings.png)
 
 ---
@@ -158,9 +158,9 @@ The dashboard can help management:
 Excel-Fintrack-Business-Analytics-Dashboard/ │ ├── README.md │ ├── data/ │ └── fintracksalesdata.xlsx │ ├── dashboard/ │ └── FinTrackSalesDashboard.xlsx │ ├── images/ │ ├── dashboard.png │ └── key-findings.png │ └── documentation/ └── project-summary.md
 
 ---
-## Author
+### Author
 **Imran Modi**
 ---
 
-## Project Status
+### Project Status
 **Completed — Excel Sales Analytics Dashboard**
