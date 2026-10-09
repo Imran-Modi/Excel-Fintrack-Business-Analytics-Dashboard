@@ -155,20 +155,20 @@ The dashboard can help management:
 ---
 
 ### Project Structure
-Excel-Fintrack-Business-Analytics-Dashboard/
+Excel-Fintrack-Business-Analytics-Dashboard
 ├── README.md
-├── data/
+├── data
 │   └── fintracksalesdata.xlsx
 ├── dashboard/
 │   └── FinTrackSalesDashboard.xlsx
-├── images/
+├── images
 │   ├── dashboard.png
 │   └── key-findings.png
-└── documentation/
+└── documentation
     └── project-summary.md
     
 ### Author
-*Imran Modi*
+**Imran Modi**
 
 ### Project Status
 **Completed — Excel Sales Analytics Dashboard**
