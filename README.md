@@ -159,7 +159,7 @@ Excel-Fintrack-Business-Analytics-Dashboard/ │ ├── README.md │ ├─�
 
 ---
 ### Author
-**Imran Modi**
+***Imran Modi***
 ---
 
 ### Project Status
