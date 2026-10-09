@@ -143,7 +143,7 @@ Sales performance was stronger during **September, October, November, and Decemb
 
 ---
 
-## Business Insights
+### Business Insights
 The dashboard can help management:
 - Identify high-revenue products
 - Focus on profitable market segments
@@ -154,8 +154,7 @@ The dashboard can help management:
 - Improve sales and profitability planning
 ---
 
-## Project Structure
-Project Structure
+### Project Structure
 Excel-Fintrack-Business-Analytics-Dashboard/
 ├── README.md
 ├── data/
@@ -168,9 +167,8 @@ Excel-Fintrack-Business-Analytics-Dashboard/
 └── documentation/
     └── project-summary.md
     
-## Author
-***Imran Modi***
----
+### Author
+*Imran Modi*
 
 ### Project Status
 **Completed — Excel Sales Analytics Dashboard**
