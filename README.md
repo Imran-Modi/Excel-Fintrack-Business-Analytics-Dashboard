@@ -100,7 +100,7 @@ Key preparation activities included:
 
 ---
 
-## Key Findings
+### Key Findings
 
 ### Product Performance
 **Paseo** generated the highest revenue among the products, at approximately **$35.61M**, representing around **28% of total revenue**.
@@ -134,12 +134,12 @@ Sales performance was stronger during **September, October, November, and Decemb
 ---
 
 ### Dashboard
-![FinTrack Sales Dashboard](images/Dashboard.png)
+![FinTrack Sales Dashboard](Dashboard.png)
 
 ---
 
 ### Key Findings
-![Key Findings](images/Key-findings.png)
+![Key Findings](Key-findings.png)
 
 ---
 
@@ -169,7 +169,8 @@ Excel-Fintrack-Business-Analytics-Dashboard/
     └── project-summary.md
     
 ## Author
-Imran Modi---
+***Imran Modi***
+---
 
 ### Project Status
 **Completed — Excel Sales Analytics Dashboard**
