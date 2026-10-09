@@ -1,6 +1,6 @@
 ## Excel-Fintrack-Business-Analytics-Dashboard
 
-### Table of Contents
+### 📑 Table of Contents
 
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
@@ -16,14 +16,14 @@
 - [Project Status](#project-status)
 ---
 
-### Project Overview
+### 📈 Project Overview
 
 FinTrack Sales Analytics Dashboard is an Excel-based business intelligence project designed to analyze sales, revenue, profit, discounts, products, market segments, countries, and seasonal sales performance.
 The project transforms sales data into an interactive dashboard to identify important business trends, performance drivers, and opportunities for improving profitability.
 
 ---
 
-### Problem Statement
+### 🎯 Problem Statement
 
 Businesses need to understand how products, market segments, countries, discounts, and seasonal periods affect sales and profitability.
 The objective of this project is to analyze historical sales data and identify:
@@ -35,7 +35,7 @@ The objective of this project is to analyze historical sales data and identify:
 - Opportunities for improving profitability
 ---
 
-### Dataset
+### 📂 Dataset
 
 The dataset contains sales-related information including:
 - Year
@@ -67,7 +67,7 @@ The dataset contains sales-related information including:
 - Enterprise
 ---
 
-### Tools & Technologies
+### 🛠️ Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
@@ -89,7 +89,7 @@ Key preparation activities included:
 6. Creating KPIs and visualizations
 ---
 
-### Dashboard KPIs
+### 📊 Dashboard KPIs
 
 | KPI | Value |
 |---|---:|
@@ -100,7 +100,7 @@ Key preparation activities included:
 
 ---
 
-### Key Findings
+### 🔍 Key Findings
 
 ### Product Performance
 **Paseo** generated the highest revenue among the products, at approximately **$35.61M**, representing around **28% of total revenue**.
@@ -128,22 +128,22 @@ The dashboard compares sales and profit across three discount levels:
 The analysis indicates that higher discounts can support sales but may significantly reduce profitability.
 Low discounts generated lower sales than medium and high discounts but produced the highest profit among the three discount levels.
 
-### Seasonal Trends
+### 📈 Seasonal Trends
 Sales performance was stronger during **September, October, November, and December**, while several months earlier in the year showed comparatively lower sales performance.
 
 ---
 
-### Dashboard
+### 📊 Dashboard
 ![FinTrack Sales Dashboard](Dashboard.png)
 
 ---
 
-### Key Findings
+### 🔍 Key Findings
 ![Key Findings](Key-findings.png)
 
 ---
 
-### Business Insights
+### 💡 Business Insights
 The dashboard can help management:
 - Identify high-revenue products
 - Focus on profitable market segments
@@ -154,15 +154,11 @@ The dashboard can help management:
 - Improve sales and profitability planning
 ---
 
-### Project Structure
+### 📂 Project Structure
 <ul> <li><strong>Excel-Fintrack-Business-Analytics-Dashboard/</strong> <ul> <li>README.md</li> <li><strong>data/</strong> <ul> <li>fintracksalesdata.xlsx</li> </ul> </li> <li><strong>dashboard/</strong> <ul> <li>FinTrackSalesDashboard.xlsx</li> </ul> </li> <li><strong>images/</strong> <ul> <li>dashboard.png</li> <li>key-findings.png</li> </ul> </li> <li><strong>documentation/</strong> <ul> <li>project-summary.md</li> </ul> </li> </ul> </li> </ul>
     
-📚 Author
+### 📚 Author
 ***Imran Modi***
 
-⭐ Project Status
-
-Completed — Excel Sales Analytics Dashboard ✅
-
-### Project Status
-**Completed — Excel Sales Analytics Dashboard**
+### ⭐ Project Status
+**Completed — Excel Sales Analytics Dashboard** ✅
